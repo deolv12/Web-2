@@ -4,4 +4,4 @@
 
 - Nama : Deananda Meuthia
 - NIM: 0110124186
-- Rombel ; SI11
+- Rombel : SI11
