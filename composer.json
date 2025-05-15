@@ -1,0 +1,17 @@
+{
+    "name": "myname/web-2",
+    "autoload": {
+        "psr-4": {
+            "Myname\\Web2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "deolv12",
+            "email": "deanandameuthia@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
