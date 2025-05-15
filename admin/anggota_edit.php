@@ -29,11 +29,11 @@ if (isset($_GET['id'])) {
 <!--begin::App Wrapper-->
 <div class="app-wrapper">
     <!--begin::Header-->
-    <?php include_once 'navbar.php'; ?>
+    <?php include_once 'partials/navbar.php'; ?>
     <!--end::Header-->
 
     <!--begin::Sidebar-->
-    <?php include_once 'sidebar.php'; ?>
+    <?php include_once 'partials/sidebar.php'; ?>
     <!--end::Sidebar-->
 
     <!--begin::App Main-->
@@ -110,6 +110,6 @@ if (isset($_GET['id'])) {
     </main>
     <!--end::App Main-->
     
-    <?php include_once 'footer.php'; ?>
+    <?php include_once 'partials/footer.php'; ?>
 
 </div>
